@@ -1,0 +1,6 @@
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : 'abidBlogs'
+theme : 'PaperMod'
+params:
+    ShowCodeCopyButtons : true
