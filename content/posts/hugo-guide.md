@@ -47,3 +47,6 @@ Starts the server in your local environment. You can preview the changes in your
 hugo server
 ```
 
+## FAQs
+
+[Can we use our Dockerfile to build an image and deploy it in netlify](https://answers.netlify.com/t/can-we-use-our-dockerfile-to-build-an-image-and-deploy-it-in-netlify/26996)
