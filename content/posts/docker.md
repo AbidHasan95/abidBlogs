@@ -1,6 +1,7 @@
 ---
 title: "Docker Guide"
 date: 2023-01-25T00:25:03+05:30
+tags: ['Docker', 'Linux']
 draft: false
 ---
 Install Docker on Raspberry Pi to turn the pi into a personal linux server which will keeps tabs on your favourite RSS feeds. View the feeds across your laptops, mobile devies, tabs etc. The feeds gets auto updated in the background.
