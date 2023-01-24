@@ -9,7 +9,9 @@ Install Docker on Raspberry Pi to turn the pi into a personal linux server which
 
 ## Installation
 Docker can be installed using the official script.
-```curl -sSL https://get.docker.com | sh```
+```
+curl -sSL https://get.docker.com | sh
+```
 
 ## Post Installation Configuration
 
