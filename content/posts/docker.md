@@ -37,8 +37,8 @@ sudo systemctl disable containerd.service
 To check if the installtion has been successful, run the following command
 ```docker run hello-world```
 
-**References**
-https://docs.docker.com/engine/install/linux-postinstall/
+**References**  
+https://docs.docker.com/engine/install/linux-postinstall/  
 https://web.yueh.dev/learning/init-vs-systemd-what-is-an-init-daemon
 https://www.tecmint.com/systemd-replaces-init-in-linux/
 
