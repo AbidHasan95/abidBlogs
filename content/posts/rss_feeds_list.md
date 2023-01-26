@@ -1,5 +1,5 @@
 ---
-title: "Rss_feeds_list"
+title: "Rss feeds list"
 date: 2023-01-25T01:23:51+05:30
 draft: false
 ---
