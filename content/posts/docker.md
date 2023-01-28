@@ -65,12 +65,26 @@ Run the following command to log into the linux container with the container ID 
 ```
 docker exec -u 0 -it aa410b4218cf /bin/bash
 ```
+
+**Alternate Method**
+`docker exec -it <IMAGE_NAME> sh`
+eg. docker exec it freshrss sh
+
 **References**
 https://docs.docker.com/engine/reference/commandline/exec/
 
+### Execute command
+Execute a command on the container
+```
+docker exec -d mycontainer touch /tmp/execWorks
+```
+
+Execute an interactive `sh` shell on container
+`docker exec -it mycontainer sh`
+
 ### List containers/images
 
-`**docker ps**`
+**`docker ps`**
 
 Usage:  docker ps [OPTIONS]
 

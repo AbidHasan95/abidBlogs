@@ -46,6 +46,9 @@ Starts the server in your local environment. You can preview the changes in your
 ```bash
 hugo server
 ```
+The build process can be started with the command `hugo`. It generated the static html files which can then be deployed on github pages or netlify. 
+## Deploy
+If Netlify is used, git push directly updates the site
 
 ## FAQs
 
